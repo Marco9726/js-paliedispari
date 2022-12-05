@@ -6,3 +6,8 @@ L’utente sceglie pari o dispari e inserisce un numero da 1 a 5. Generiamo un n
     //2.1 - far ripetere il prompt in caso scelga un numero che non sia compreso tra 1 e 5
 //3 - genero un numero random tra 1 e 5 in una funzione
     //3.1 - assegno il valore di ritorno ad una variabile
+//4 - sommo i due numeri ottenuti in una funzione
+    //4.1 assegno il risultato ad una variabile
+//5 - veifico se il risultato finale coincide con la scelta iniziale dell'utente
+    //5.1 se i risultati coincidono, appare alert 'HAI VINTO'
+    //5.2 se i risultati non coincidono, appare alert 'NON HAI VINTO'
